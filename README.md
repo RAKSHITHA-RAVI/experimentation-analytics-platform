@@ -1,8 +1,13 @@
-A/B Experiment Results — Pricing Discount Impact
+# A/B Experiment Results — Pricing Discount Impact
+
+
+
 
 ## Overview
 This project analyzes the impact of a pricing discount strategy using a controlled A/B experiment.  
 The objective was to evaluate whether a limited-time discount improved **conversion rate** and **revenue per user**, while ensuring there was no negative impact on **customer experience**, measured through support tickets.
+
+![A/B Experiment Dashboard](dashboards/dahsboard.png)
 
 The project mirrors a real-world enterprise analytics workflow, covering **data simulation, SQL-based modeling, statistical analysis, and executive dashboarding**.
 
@@ -57,7 +62,5 @@ Design a separate experiment for **Enterprise customers** using alternative ince
 
 ---
 
-## Dashboard Preview
-![A/B Experiment Dashboard](dashboards/ab_experiment_dashboard.png)
 
----
+
